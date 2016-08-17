@@ -1,4 +1,4 @@
-#Timestamp Microservice project on FreeCodeCamp.com
+#Timestamp Microservice challenge on FreeCodeCamp.com
 (https://www.freecodecamp.com/challenges/timestamp-microservice)
 
 ##User stories:
@@ -8,6 +8,7 @@
 
 ##Example usage:
 http://localhost:8080/December%2015,%202015
+
 http://localhost:8080/1450137600
 
 ##Example output:
